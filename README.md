@@ -7,7 +7,7 @@
 Oyuncuyu kontrol etmek veya sonraki bölüme geçmek... Oyunun nasıl oynanacağıyla ilgili tüm talimatlar oyunda yazılı. Ama bunları uygulayabilmek için cümlelerdeki boşlukları tamamlamanız gerekecek.
 
 ## Nereden Oynanabilir?
-[muhsalp.github.io/web-tabanli-programlama-oyun-gelistirme-projesi](https://muhsalp.github.io/web-tabanli-programlama-oyun-gelistirme-projesi)
+[muhammet-sonmezalp.github.io/web-tabanli-programlama-oyun-gelistirme-projesi](https://muhammet-sonmezalp.github.io/web-tabanli-programlama-oyun-gelistirme-projesi)
 
 ## Oyun İçi Örnek Görüntüler
 ![Görüntü 1](goruntu/goruntu1.png)
